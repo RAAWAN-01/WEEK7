@@ -1,9 +1,9 @@
 <?php 
 
-$server = 'localhost';
-$username = 'root';
-$password = '';
-$database = 'herald_db';
+$server = 'localhost';  
+$username = 'np03cs4a240289';   
+$password = 'APxyqocPVp';       
+$database = 'np03cs4a240289';   
 
 try {
     $options = [
